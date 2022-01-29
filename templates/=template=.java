@@ -7,8 +7,8 @@
 
 public class %FILE%
 {
-	public %FILE%() {
-		%HERE%
-	}
+	public static void main(String[] args) {
+		%HERE% 
+    	}
 }
 
